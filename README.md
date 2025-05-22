@@ -16,7 +16,7 @@ You should create an account and get your API key from [Snip Cloud](https://www.
 
 ### Installation
 
-1. install the extension from [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=snip-cloud-vscode.snip-cloud-vscode).
+1. install the extension from [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=snipcloud.snip-cloud-vscode).
 
 2. open your VSCode, `Settings` -> `Extensions` -> `SnipCloud` -> `API Key` -> `Input your API Key`
 
