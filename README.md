@@ -12,7 +12,7 @@
 
 ### Prerequisites
 
-You should create an account and get your API key from [Snip Cloud](https://www.snipcloud.io) first. if you don't have one, please register first. and read [quick start](https://docs.snipcloud.io/quickstart)
+You should create an account and get your API key from [Snip Cloud](https://www.snipcloud.io) first. if you don't have one, please register first. and read [quick start](https://docs.snipcloud.io/docs/core)
 
 ### Installation
 
